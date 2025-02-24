@@ -1,0 +1,11 @@
+EmployeeID,Age,City,Salary,Experience,Performance,BonusPercentage,DistanceFromOffice
+1,28,New York,60000,5,88,5.0,15
+2,32,London,75000,7,92,7.5,25
+3,25,Paris,55000,3,80,3.0,8
+4,38,Tokyo,90000,10,95,10.0,30
+5,29,New York,65000,6,90,6.0,18
+6,33,London,78000,8,93,8.0,22
+7,26,Paris,58000,4,82,4.0,10
+8,40,Tokyo,95000,12,96,12.0,35
+9,27,New York,62000,5,85,5.5,16
+10,34,London,80000,9,94,8.5,28

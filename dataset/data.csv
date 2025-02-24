@@ -1,0 +1,6 @@
+Name,Age,City,Salary
+Alice,25,New York,50000
+Bob,30,London,60000
+Charlie,22,Paris,45000
+David,35,Tokyo,70000
+Eve,28,NaN,55000
